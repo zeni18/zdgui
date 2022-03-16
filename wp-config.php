@@ -26,10 +26,10 @@ define( 'DB_NAME', 'zdgui_com' );
 define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'cailei789' );
+define( 'DB_PASSWORD', '15e3139a5c28cbdcf8cc2740082bfb24' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '172.17.0.1' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
